@@ -5,7 +5,7 @@
 // @description  Some controls to assist with coding ToT
 // @author       David Elmkies (delmkies)
 // @match        fclm-portal.amazon.com/employee/*
-// @require      https://github.com/catly1/Amazon-Scripts/blob/main/vue.js
+// @require      https://raw.githubusercontent.com/catly1/Amazon-Scripts/bfd6212841320b5ed8735383763299ca9adfd9a8/vue.js
 
 // @grant        none
 // @run-at       document-end
